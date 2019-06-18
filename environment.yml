@@ -2,11 +2,5 @@ name: example-environment
 dependencies:
   - numpy
   - scipy
-  - psutil
-  - toolz
   - matplotlib
-  - dill
-  - pandas
-  - partd
-  - bokeh
-  - dask
+
