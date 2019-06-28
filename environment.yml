@@ -3,4 +3,5 @@ dependencies:
   - numpy
   - scipy
   - matplotlib
+  - sounddevice
 
